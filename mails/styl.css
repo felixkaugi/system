@@ -1,0 +1,25 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+form{
+	width: 50%;
+	margin: 50px auto;
+	border: 1px solid #cdcdcd;
+	border-radius: 5px;
+	padding: 30px;
+}
+input{
+	display: block;
+	border:1px solid #2bebeb;
+	width: 99%;
+	padding: 5px 10px;
+	border-radius: 5px;
+}
+.btn{
+	padding: 10px;
+	border:none;
+	border-radius: 5px;
+	background: blue;
+	color: #fff;
+}
